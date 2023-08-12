@@ -1,3 +1,4 @@
 var number = 4
 const secondNum = 5
-console.log(number + secondNum)
+const thirdNum = 11
+console.log(number + secondNum - thirdNum)
